@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87eb0b23-9665-4d09-abd8-76aacfdddd2f" name="Default Changelist" comment="" />
+    <list default="true" id="87eb0b23-9665-4d09-abd8-76aacfdddd2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DataMungerStep1_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../DataMungerStep1_Boilerplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/com.stackroute.PE2/PersondetailsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="30" column="1" lean-forward="true" selection-end-line="30" selection-end-column="1" />
+              <caret line="30" column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -111,7 +114,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="133" />
     <option name="y" value="47" />
     <option name="width" value="1371" />
@@ -221,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550158795863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550158909065" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -390,7 +393,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1600" height="800" extended-state="6" />
+    <frame x="0" y="25" width="1600" height="800" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22072072" />
@@ -630,7 +633,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/com.stackroute.PE2/PersondetailsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="30" column="1" lean-forward="true" selection-end-line="30" selection-end-column="1" />
+          <caret line="30" column="1" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
